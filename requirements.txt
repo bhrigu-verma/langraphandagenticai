@@ -4,3 +4,4 @@ python-dotenv
 langsmith
 langchain-groq
 langchain_groq
+langchain_tavily
